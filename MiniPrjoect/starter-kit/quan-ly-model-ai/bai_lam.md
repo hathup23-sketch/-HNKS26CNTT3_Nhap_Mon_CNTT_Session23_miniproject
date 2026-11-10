@@ -3,7 +3,7 @@
 - **Mã đề:**
 - **Họ tên:**Pham Thi Thu Ha
 - **Lớp:**CNTT3
-- **Link repository:**
+- **Link repository:** https://github.com/hathup23-sketch/-HNKS26CNTT3_Nhap_Mon_CNTT_Session23_miniproject.git
 - **Hệ điều hành (Windows/macOS):**Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
